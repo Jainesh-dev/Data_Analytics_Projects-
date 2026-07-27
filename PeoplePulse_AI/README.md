@@ -60,6 +60,13 @@ The HR department wants to understand:
 
 The dataset contains demographic, job-related, compensation, satisfaction, and performance information for employees.
 
+## Project Highlights
+
+- Analyzed 1,470 employee records.
+- Built 4 executive KPIs.
+- Created an interactive Power BI dashboard.
+- Delivered HR retention recommendations.
+
 # 🛠 Tech Stack
 
 ### Programming
