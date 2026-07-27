@@ -21,7 +21,7 @@ Workforce Intelligence & Attrition Analytics Platform
 ---
 
 ### ✈️ Rolls-Royce Analytics
-(Coming Soon)
+In Progress
 
 ---
 
