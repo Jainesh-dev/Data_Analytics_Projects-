@@ -6,7 +6,7 @@ This repository contains end-to-end analytics projects across multiple business 
 
 ## Projects
 
-### 🧠 PeoplePulse AI
+### 🧠 PeoplePulse Analytics
 Workforce Intelligence & Attrition Analytics Platform
 
 **Skills:**
@@ -20,10 +20,10 @@ Workforce Intelligence & Attrition Analytics Platform
 
 ---
 
-### ✈️ Rolls-Royce Analytics
+### ✈️ AeroEngine Analytics
 In Progress
 
 ---
 
-### 🌍 MakeMyTrip Analytics
+### 🌍 MT Analytics
 (Coming Soon)
