@@ -5,6 +5,18 @@ An end-to-end Workforce Intelligence and HR Analytics project built using **Pyth
 The project analyzes employee attrition patterns, identifies workforce trends, and provides executive-level recommendations to improve employee retention through data-driven decision-making.
 
 ---
+## Skills Demonstrated
+
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Power BI
+- DAX
+- Business Intelligence
+- Executive Reporting
 
 ## 📊 Executive Dashboard
 
